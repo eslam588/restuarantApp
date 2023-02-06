@@ -19,9 +19,13 @@ in the order popup , show the details for the order
 
 ==> use the leaflet to show map for user
 
-==> use the formik package for validation 
+==> use the formik package for validation
 
 
+# demo link
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://soft-churros-e5b6ae.netlify.app/en
 
 
 
