@@ -1398,10 +1398,10 @@ input[type="tel"] {
 
 
 .nextui-c-csEDlc-ivNdeP-css{
-  text-align:left;
+  text-align:left !important;
 }
 .nextui-c-csEDlc-ivNdeP-css:lang(ar){
-  text-align:right;
+  text-align:right !important;
 }
 
 .validation-box{
@@ -1443,32 +1443,32 @@ input[type="tel"] {
 
 
  .nextui-c-kRHeuF{
-  position:absolute; 
+  position:absolute !important; 
   left:15px;
 } 
 
 .nextui-c-kRHeuF:lang(ar){
-  right:15px;
+  right:15px !important;
 }
 
 .nextui-c-bDGMeb-gLOJOp-cv{
-  order:1;
+  order:1 !important;
 }
 .nextui-c-bDGMeb-gLOJOp-cv:lang("ar")
 {
   order:0;
-  display:inline-block;
-  margin-right:20px;
+  display:inline-block !important;
+  margin-right:20px !important;
  
 }
 
 
 
 .nextui-c-bDGMeb-jzMUFa-isAuto-true{
-  right:8px;
+  right:8px !important;
 }
 .nextui-popover-content{
-  width:120px;
+  width:120px !important;
 }
 
 .nextui-c-iWjDFM{
@@ -1478,7 +1478,7 @@ input[type="tel"] {
   
 }
 .nextui-c-clSMyX{
-  width:100px
+  width:100px !important;
 }
 
 .nextui-c-kpzpMf-hXNyUb-cv{
@@ -1487,10 +1487,10 @@ input[type="tel"] {
 
 
 .nextui-c-clSMyX{
-  min-width:120px
+  min-width:120px !important;
 }
 .nextui-c-kpzpMf{
-  height:25px
+  height:25px !important;
 }
 
 
@@ -1529,8 +1529,8 @@ input[type="tel"] {
 
 
 .nextui-c-cgxxHA{
-      border-radius:0 ;
-      box-shadow:none;
+      border-radius:0 !important ;
+      box-shadow:none !important;
 }
 
 
