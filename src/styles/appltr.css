@@ -493,8 +493,9 @@ a {
 }
 
 .nextui-c-iWjDFM .nextui-button-text:lang(ar){
-  margin-top: -5px !important;
-  font-family: "DIN Next Regular" !important;
+  margin-top: -5px;
+  font-family: "DIN Next Regular"
+  ;
 }
 
 .dropdown-p{
@@ -1444,11 +1445,26 @@ input[type="tel"] {
 
  .nextui-c-kRHeuF{
   position:absolute !important; 
-  left:15px;
+  left:15px !important;
 } 
 
 .nextui-c-kRHeuF:lang(ar){
   right:15px !important;
+}
+
+.order-header{
+   margin-bottom:100px;
+}
+
+.order-header > img{
+  position:absolute !important; 
+}
+.order-header > img:lang(en){
+  right:15px !important;
+} 
+
+.order-header > img:lang(ar){
+  left:15px !important;
 }
 
 .nextui-c-bDGMeb-gLOJOp-cv{
@@ -1582,4 +1598,5 @@ input[type="tel"] {
 a.close-product-popup{
   width: 100%;
 }
+
 
