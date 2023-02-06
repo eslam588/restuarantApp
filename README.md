@@ -25,7 +25,7 @@ in the order popup , show the details for the order
 # demo link
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-https://soft-churros-e5b6ae.netlify.app/en
+https://soft-churros-e5b6ae.netlify.app/
 
 
 
