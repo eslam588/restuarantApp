@@ -13,8 +13,11 @@ in the details user popup , the user enter all details and submit to show detail
 in the order popup , show the details for the order
 
 
-# technologies 
+# technologies
 --------------------------------------------------------------------------------------------------------------------------------------------
+==> (html , css , react , redux toolkit)
+==> use the leaflet to show map for user
+==> use the formik package for validation 
 
 
 
