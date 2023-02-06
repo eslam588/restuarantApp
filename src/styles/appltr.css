@@ -1472,9 +1472,9 @@ input[type="tel"] {
 }
 
 .nextui-c-iWjDFM{
-  background-color:var(--color-primary);
+  background-color:var(--color-primary) !important;
   text-align:center;
-  box-shadow: 0 2px 4px rgb(0 0 0 / 100%);
+  box-shadow: 0 2px 4px rgb(0 0 0 / 100%) !important;
   
 }
 .nextui-c-clSMyX{
@@ -1482,7 +1482,7 @@ input[type="tel"] {
 }
 
 .nextui-c-kpzpMf-hXNyUb-cv{
-  background-color:var(--color-primary)
+  background-color:var(--color-primary) !important;
 }
 
 
@@ -1518,12 +1518,12 @@ input[type="tel"] {
 
  .nextui-c-grJsex-ikUaMfZ-css{
   max-width:460px !important;
-  margin:0 auto;
+  margin:0 auto !important;
 }
 
 
 .nextui-c-csEDlc-iwsVYJ-fullScreen-true .nextui-c-grJsex{
-  margin: 0 auto;
+  margin: 0 auto !important;
   border:none;
 } 
 
